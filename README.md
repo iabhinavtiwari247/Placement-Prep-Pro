@@ -4,6 +4,10 @@ A comprehensive placement preparation and job application tracking system built 
 
 [Link Text](https://youtu.be/DWW5fR_I6cU)
 
+
+https://github.com/user-attachments/assets/8c4e57b0-91d6-4169-873f-cb15919681e2
+
+
 ## Features
 
 - **Authentication**: Email/password signup and login with Supabase
@@ -269,6 +273,7 @@ git subtree push --prefix dist origin gh-pages
 - [ ] Referral tracking
 - [ ] Mock interview scheduling
 - [ ] Company research integration
+
 
 
 
