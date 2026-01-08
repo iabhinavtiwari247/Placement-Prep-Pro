@@ -2,6 +2,8 @@
 
 A comprehensive placement preparation and job application tracking system built with React, Vite, TypeScript, TailwindCSS, and Supabase.
 
+[Link Text](https://youtu.be/DWW5fR_I6cU)
+
 ## Features
 
 - **Authentication**: Email/password signup and login with Supabase
@@ -267,5 +269,6 @@ git subtree push --prefix dist origin gh-pages
 - [ ] Referral tracking
 - [ ] Mock interview scheduling
 - [ ] Company research integration
+
 
 
